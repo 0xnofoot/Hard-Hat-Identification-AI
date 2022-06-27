@@ -1,0 +1,6 @@
+model_checkpoint_path: "best_model_Epoch_180_step_554764_mAP_0.9586_loss_6.6713_lr_1e-06"
+all_model_checkpoint_paths: "best_model_Epoch_130_step_401514_mAP_0.9517_loss_6.9577_lr_5e-06"
+all_model_checkpoint_paths: "best_model_Epoch_150_step_462814_mAP_0.9525_loss_7.0024_lr_5e-06"
+all_model_checkpoint_paths: "best_model_Epoch_160_step_493464_mAP_0.9536_loss_6.7844_lr_1e-06"
+all_model_checkpoint_paths: "best_model_Epoch_170_step_524114_mAP_0.9554_loss_6.8864_lr_1e-06"
+all_model_checkpoint_paths: "best_model_Epoch_180_step_554764_mAP_0.9586_loss_6.6713_lr_1e-06"
